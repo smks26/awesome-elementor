@@ -108,13 +108,11 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Sina Extension for Elementor](https://wordpress.org/plugins/sina-extension-for-elementor/) - A collection of high-quality widgets for Elementor page builder.
 * [Polylang Connect for Elementor](https://wordpress.org/plugins/connect-polylang-elementor/) - Connect the Polylang multilingual plugin with Elementor Page Builder: This plugin will make Elementor and Polylang show the correct language templates, especially with Elementor Pro Theme Builder.
 * [Visibility Logic for Elementor](https://wordpress.org/plugins/visibility-logic-elementor/) - Hide or show Elementor widgets based on user conditions.
-* [White Label Branding for Elementor Page Builder](https://wordpress.org/plugins/white-label-branding-elementor/) - White Label Branding for Elementor Page Builder.
 * [The Plus Addons for Elementor Page Builder](https://wordpress.org/plugins/the-plus-addons-for-elementor-page-builder/) - Biggest collection of widgets made for Elementor page builder in WordPress.
 * [PowerPack Lite for Elementor](https://wordpress.org/plugins/powerpack-lite-for-elementor/) - Custom addons for Elementor page builder.
 * [Popup Trigger URL for Elementor Pro](https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/) - Helps you to trigger Elementor Pro's popups (open, close, or toggle) from menus or any kind of link.
 * [PDF Generator Addon for Elementor Page Builder](https://wordpress.org/plugins/pdf-generator-addon-for-elementor-page-builder/) - Pdf Generator Addon for Wordpress Elementor Page Builder allows to create pdf of pages and post.
 * [Analog Templates for Elementor](https://wordpress.org/plugins/analogwp-templates/) - A handcrafted design library for Elementor templates.
-* [Layouts for Elementor](https://wordpress.org/plugins/layouts-for-elementor/) - Beautifully designed, Free templates, Handcrafted for popular Elementor page builder.
 * [Advanced Card Widget for Elementor](https://wordpress.org/plugins/happy-elementor-card/) - Most intuitive and feature rich card widget for Elementor to make your life easy and happy.
 * [WPForms Widget For Elementor Page Builder](https://wordpress.org/plugins/ht-wpform/) - The WPForms Widget Elementor is a Elementor addons for WordPress.
 * [Logic Hop Personalization for Elementor Add-on](https://wordpress.org/plugins/logic-hop-personalization-for-elementor-add-on/) - The Logic Hop Personalization for Elementor Add-on brings the power of personalization to WordPress with Elementor.
@@ -180,7 +178,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Smart Addons for Elementor](https://wordpress.org/plugins/smart-addons-for-elementor/) - Packed with a bunch of Smart designed widget for Elementor.
 * [News Ticker Widget for Elementor](https://wordpress.org/plugins/news-ticker-widget-for-elementor/) - It showcases your most recent posts in a ticker style.
 * [Awesome Addons for Elementor Page Builder](https://wordpress.org/plugins/awesome-addons/) - Awesome Addons for Elementor page builder. which is allows you to install lot of different style elements block to your website.
-* [ElementPress](https://wordpress.org/plugins/elementpress/) - The most advanced addons for Elementor.
 * [Gist for Elementor](https://wordpress.org/plugins/gist-for-elementor/) - Plugin to extend Elementor forms with Gist.
 * [Medical Addon for Elementor](https://wordpress.org/plugins/medical-addon-for-elementor/) - Medical Addon for Elementor covers all the must-needed elements for creating a perfect Medical website using Elementor Page Builder. 35+ Unique & Basic Elementor widget covers all of the Medical elements.
 * [myCred Elementor](https://wordpress.org/plugins/mycred-for-elementor/) - Adds all myCRED shortcodes to Elementor.
@@ -223,7 +220,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Theme Builder For Elementor](https://wordpress.org/plugins/theme-builder-for-elementor/) -  Theme Builder For Elementor.
 * [Modern Addons for Elementor](https://wordpress.org/plugins/modern-addons-elementor/) -  Modern unique addon elements for Elementor page builder.
 * [Pixer Necessary Addons For Elementor](https://wordpress.org/plugins/pixer-necessary-addons-for-elementor/) -  With Pixer Necessary Addons For Elementor Plugin you can add in beautifull sections for your website.
-* [Elementor Integrations](https://wordpress.org/plugins/integrations-for-elementor/) -  Custom actions for Elementor form widget.
 * [Extensions for Elementor Form](https://wordpress.org/plugins/extensions-for-elementor-form/) -  Extensions for Elementor Form create many actions and controls to Elementor Form. This plugin require the Elementor Pro (Form Widget).
 * [FancyNav – Elementor](https://wordpress.org/plugins/fancynav-elementor/) -  Mobile Navigation Widget for Elementor.
 * [Footer Design For Elementor](https://wordpress.org/plugins/footer-design-for-elementor/) -  Design the footer you want easily.
@@ -251,7 +247,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Hash Elements](https://wordpress.org/plugins/hash-elements/) -  Elementor addons for WordPress Themes developed by HashThemes.
 * [Image Hover Effects for Elementor](https://wordpress.org/plugins/image-hover-effects-elementor-addon/) -  Image Hover Effects addon for elementor page builder plugin. Compare Before and After Images beautifully.
 * [Timer Counter Elementor Addons](https://wordpress.org/plugins/timer-element-for-elementor/) -  Timer Counter Elementor Addons for Elementor WordPress Page Builder.
-* [Digital Marketing and Agency Templates for Elementor](https://wordpress.org/plugins/digital-marketing-agency-templates-for-elementor/) -  Digital Marketing and Agency templates widgets for Elementor with 3 premade home pages.
 * [Content Slider for the Elementor Page Builder](https://wordpress.org/plugins/movelize-scrolling-widgets/) -  Elementor columns as scrolling containers.
 * [Automizy / Elementor Integration](https://wordpress.org/plugins/automizy-elementor-integration/) -  Connect Automizy to Elementor Page Builder.
 * [Webp Image Block](https://wordpress.org/plugins/webp-image-block/) -  This plugin adds an extra image widget in Elementor that converts the added image to webp and loads webp image on front end if the browsers supports webp images.
@@ -278,7 +273,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Infinite Scroll for Elementor with Ajax](https://wordpress.org/plugins/infinite-scroll-for-elementor-with-ajax/) -  Infinite Scroll for Elementor with Ajax.
 * [Marvy – Background Animations for Elementor](https://wordpress.org/plugins/marvy-animation-addons-for-elementor-lite/) -  This is a short description of what the plugin does. It's displayed in the WordPress admin area.
 * [JetGridBuilder for Elementor](https://wordpress.org/plugins/jetgridbuilder/) -  The First Grid Builder for WordPress.
-* [Elemenda](https://wordpress.org/plugins/elemenda/) -  Powerful widgets for marketer that works seamlessly with Elementor page builder.
 * [Blog, Posts and Category Filter for Elementor](https://wordpress.org/plugins/blog-posts-and-category-for-elementor/) -  Posts and Category for Elementor.
 * [Include Klaviyo for Elementor Pro](https://wordpress.org/plugins/include-klaviyo-for-elementor-pro/) -  Klaviyo's list API integration for Elementor Pro form.
 * [Telementor](https://wordpress.org/plugins/telementor-telegram-for-elementor-form/) -  Easy and Fast Telegram Integration for Elementor Form.
@@ -321,7 +315,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [eCommerce Addon](https://wordpress.org/plugins/ecommerce-addon/) -  eCommerce Addon covers all the must-needed elements for creating a perfect eCommerce website using Elementor Page Builder. 20+ Unique & Basic Elementor widget covers all of the eCommerce elements.
 * [Yummy Cookies](https://wordpress.org/plugins/yummy-cookies/) -  A lightweight plugin that extends Elementor's Dynamic Tags with Cookies.
 * [Math Captcha for Elementor Forms](https://wordpress.org/plugins/math-captcha-for-elementor-forms/) -  Simple match captcha for Elementor Page Builder Forms.
-* [Scheduler for Elementor](https://wordpress.org/plugins/scheduler-for-elementor/) -  Adds a scheduling control to elementor blocks to time its visibility.
 * [LA-Studio Element Kit for Elementor](https://wordpress.org/plugins/lastudio-element-kit/) -  This plugin helps you to add custom size units into padding/setting of common widgets for Elementor.
 * [Better Usage Statistics for Elementor](https://wordpress.org/plugins/bin-elements-usage-stats-for-elementor/) -  Displays more detailed elements usage statistic for Elementor.
 * [Media Player Addons for Elementor](https://wordpress.org/plugins/media-player-addons-for-elementor/) -  Collection of media players to plaback of various media files such as .mp3, .mp4, .flv, .m3u8, .ogg, YouTube, Vimeo and more.
@@ -331,7 +324,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Easy Elementor Addons](https://wordpress.org/plugins/easy-elementor-addons/) -  Easy Elementor Addons is an all in one element pack extension for Elementor page builder.
 * [RT Easy Builder - Advanced addons for Elementor](https://wordpress.org/plugins/rt-easy-builder-advanced-addons-for-elementor/) -  RT Easy Builder is a bunch of Advanced Extra Addons for the Popular Plugin Elementor including a demo importer that would help to import any Readymade Starter sites with one click.
 * [Chart Addon for Elementor – WPTD](https://wordpress.org/plugins/wptd-chart/) -  WPTD Chart is advanced elementor chart plugin. Convert easily data into chart. We gives you 4 models of charts example: pie chart, line chart, doughnut chart, bar chart. Also you can control chart legend details. In future we planned to give more chart types as free.
-* [Education Addon for Elementor](https://wordpress.org/plugins/education-addon/) -  Education Addon covers all the Must-Have elements for creating a perfect Education website using Elementor Page Builder. 15+ Unique & Basic Elementor widget covers all of the Education elements.
 * [Widget Detector for Elementor](https://wordpress.org/plugins/widget-detector-elementor/) -  Detect Elementor widgets used on pages, also not used widgets or missign widgets.
 * [Advanced Image Comparison for Elementor](https://wordpress.org/plugins/advanced-image-comparison-for-elementor/) -  Advanced Image Comparison for Elementor wordpress plugin.
 * [Royal Elementor Addons](https://wordpress.org/plugins/royal-elementor-addons/) -  Royal Elementor Addons is the most versatile, intuitive, and easy to use Elementor Page Builder plugin.
@@ -355,7 +347,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 * [Custom CSS for Elementor](https://wordpress.org/plugins/custom-css-for-elementor/) -  A lightweight plugin that open an option to add custom CSS code for each device (desktop, tablets, mobiles) by elementor widgets.
 * [EazyGrid for Elementor](https://wordpress.org/plugins/eazygrid-for-elementor/) -  Easiest Photo Grid Gallery Plugin for Elementor.
 * [Genius Addons For Elementor](https://wordpress.org/plugins/genius-addon-lite/) -  Genius Addon is a lightweight Elementor widgets and template library collection.
-* [Extender All In One For Elementor](https://wordpress.org/plugins/extender-all-in-one-for-elementor/) -  The All in One Widgets you'll ever need.
 * [Zeus Elementor](https://wordpress.org/plugins/zeus-elementor/) -  Add many new powerful and entirely customizable widgets on top of any Elementor Package (Free, Pro). Works with any WordPress theme.
 * [Rocket Addons](https://wordpress.org/plugins/rocket-addons/) -  Conditional logic and form addons for Elementor Pro.
 * [Cozy Addons for Elementor](https://wordpress.org/plugins/cozy-addons/) -  Cozy Addons is the powerful elementor widgets plugin, which comes with advance powerful widget with multiple layout that powerup your website.
