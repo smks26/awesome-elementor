@@ -13,7 +13,6 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 
 ## Third-Party Add-Ons
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
-* [Page Templater For Elementor](https://wordpress.org/plugins/elementor-templater/) - A helper plugin for users of Elementor Page Builder.
 * [SJ Elementor Addon](https://wordpress.org/plugins/sj-elementor-addon/) - SJ Elementor Addon is Elementor Page Builder's Addon Pack. Quickly add SVG, Image separator to your row. Just Drag, Drop and Enjoy.
 * [Addon Widgets For Elementor](https://wordpress.org/plugins/elementor-addon-widgets/) - Adds Native Custom WordPress Widgets that are specifically designed to be used in conjunction with the Elementor Page Builder.
 * [NavMenu Addon For Elementor](https://wordpress.org/plugins/navmenu-addon-for-elementor/) - Adds new NavMenus to the Elementor Page Builder plugin. Now with Site Branding options.
